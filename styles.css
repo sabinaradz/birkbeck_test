@@ -13,3 +13,8 @@ h1:hover {
   color: plum;
   cursor: poiter;
 }
+
+p {
+  font-size: 2rem;
+  color: palevioletred;
+}
